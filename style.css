@@ -9,7 +9,9 @@ body{
 }
 li{
     size: 50px;
-    color: #7FFF00;
+    color: #FF0000;
+/*     ijo #7FFF00 */
+/*     merah #FF0000 */
 }
 .row{
     align-items: center;
